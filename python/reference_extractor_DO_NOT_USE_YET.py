@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This is the preliminary version of the Python script to get location data out of SR texts
-Please do not yet use this file in any form, it will need to be cleaned up and corrected before
+Please do not yet use this file in any form, it still needs to be cleaned up and verified
 This Python script is currently a collage from several production scripts
 
 Created on Fri Jul 28 23:22:45 2017
