@@ -173,8 +173,8 @@ import watson_developer_cloud.natural_language_understanding.features.v1 \
   as Features
 
 natural_language_understanding = NaturalLanguageUnderstandingV1(
-    username="0d3b83c7-a175-48b0-9116-533f7ee6b4bb",
-    password="jBW6WMbFreaX",
+    username="YOUR_USER_NAME_COMES_HERE",
+    password="YOUR_PASSWORD_COMES_HERE",
   version="2017-02-27")
 
 def getWatsonEntities(text):
